@@ -1,0 +1,12 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente",
+        "amount": 100
+    },
+    {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o",
+        "amount": 100
+    }
+]
